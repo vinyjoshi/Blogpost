@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"PO",
+				"PostManager"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"qu",
+				"quote_plus"
+			],
+			[
+				"pre",
+				"pre_save_post_reciever"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"Pos",
+				"PostForm"
+			],
+			[
+				"post",
+				"post_detail"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"BAE",
+				"BASE_DIR"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"price_b",
+				"price_b"
+			],
+			[
+				"price",
+				"price_a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 3053,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termina",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vinyjoshi/Desktop/Django/Blog",
+		"/home/vinyjoshi/Desktop/Django/Blog/Blog",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts",
+		"/home/vinyjoshi/Desktop/Django/Blog/static"
+	],
+	"file_history":
+	[
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/models.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/views.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Templates/post_detail.html",
+		"/home/vinyjoshi/Desktop/Django/Blog/Templates/post_list.html",
+		"/home/vinyjoshi/Desktop/virtualbox.desktop",
+		"/home/vinyjoshi/Desktop/Django/Blog/Blog/urls.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/urls.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Templates/post_create.html",
+		"/home/vinyjoshi/Desktop/Django/Blog/Templates/base.html",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/templatetags/urlify.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/forms.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/templatetags/__init__.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Blog/settings.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/migrations/0002_auto_20210302_0422.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/Templates/messages.html",
+		"/home/vinyjoshi/Desktop/Django/Blog/Posts/admin.py",
+		"/home/vinyjoshi/Desktop/Django/Blog/CRUD.md",
+		"/home/vinyjoshi/Desktop/Django/Blog/untitled.sublime-project",
+		"/home/vinyjoshi/Desktop/Django/todo/todo/settings.py",
+		"/home/vinyjoshi/Desktop/Django/todo/reactapp/src/App.js",
+		"/home/vinyjoshi/Desktop/Django/todo/todo/urls.py",
+		"/bin/gpasswd",
+		"/home/vinyjoshi/Desktop/google-chrome.desktop",
+		"/home/vinyjoshi/Desktop/JPMorgan Chase/Task3/JPMC-tech-task-3-PY3/src/App.tsx",
+		"/home/vinyjoshi/Desktop/JPMorgan Chase/JPMC-tech-task-1-py3/client_test.py",
+		"/home/vinyjoshi/Desktop/JPMorgan Chase/JPMC-tech-task-1-py3/client3.py",
+		"/home/vinyjoshi/Desktop/JPMorgan Chase/JPMC-tech-task-1-py3/get-pip.py",
+		"/home/vinyjoshi/Desktop/JPMC/JPMC-tech-task-1-py3/server3.py",
+		"/home/vinyjoshi/Desktop/JPMC/JPMC-tech-task-1-py3/client3.py",
+		"/home/vinyjoshi/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/vinyjoshi/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/vinyjoshi/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delete_url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Blog/settings.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
